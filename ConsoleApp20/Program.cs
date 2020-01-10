@@ -60,6 +60,7 @@ namespace ConsoleApp20
 
         static void Main(string[] args)
         {
+            Test2.Run();
             RealLifeDecorator.Run();
             Mackor.Run();
 
